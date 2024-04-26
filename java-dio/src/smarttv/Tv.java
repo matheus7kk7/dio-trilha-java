@@ -1,3 +1,4 @@
+package smarttv;
 public class Tv {
     
     private boolean  estadoTv ;   

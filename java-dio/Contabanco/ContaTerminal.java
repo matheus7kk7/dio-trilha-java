@@ -1,4 +1,3 @@
-package Contabanco;
 import java.util.Scanner ;
 
 public class ContaTerminal {
