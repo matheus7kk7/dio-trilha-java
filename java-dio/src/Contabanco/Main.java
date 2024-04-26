@@ -4,7 +4,7 @@ public class Main {
     
 
        public static void main(String[] args) {
-        ContaBanco contabanco = new ContaBanco() ;
+        ContaTerminal contabanco = new ContaTerminal() ;
         System.out.println( "Digite nome completo");
 
         contabanco.setNomeCliente() ;

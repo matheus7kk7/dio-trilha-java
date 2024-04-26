@@ -1,7 +1,7 @@
 package Contabanco;
 import java.util.Scanner ;
 
-public class ContaBanco {
+public class ContaTerminal {
 
     private String nomeDoCliente ;
     private int numeroConta ;
